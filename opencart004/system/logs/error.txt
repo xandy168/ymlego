@@ -1,0 +1,1 @@
+2014-09-05 12:15:38 - PHP Notice:  Undefined index: banner_id in /var/www/html/opencart004/admin/view/template/module/slideshow.tpl on line 36

@@ -1,0 +1,1 @@
+2014-09-18 8:42:25 - PHP Warning:  htmlspecialchars(): Invalid multibyte sequence in argument in /var/www/html/opencart003/system/library/request.php on line 33

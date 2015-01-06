@@ -1,0 +1,12 @@
+2014-09-30 15:57:21 - PHP Notice:  Undefined variable: small_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 113
+2014-09-30 15:57:21 - PHP Notice:  Undefined variable: org_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 137
+2014-09-30 15:57:39 - PHP Notice:  Undefined variable: small_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 113
+2014-09-30 15:57:39 - PHP Notice:  Undefined variable: org_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 137
+2014-09-30 16:09:17 - PHP Notice:  Undefined variable: small_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 113
+2014-09-30 16:09:17 - PHP Notice:  Undefined variable: org_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 137
+2014-09-30 16:21:59 - PHP Notice:  Undefined variable: small_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 113
+2014-09-30 16:21:59 - PHP Notice:  Undefined variable: org_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 137
+2014-09-30 16:22:14 - PHP Notice:  Undefined variable: small_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 113
+2014-09-30 16:22:14 - PHP Notice:  Undefined variable: org_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 137
+2014-09-30 16:22:21 - PHP Notice:  Undefined variable: small_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 113
+2014-09-30 16:22:21 - PHP Notice:  Undefined variable: org_html in /var/www/html/opencart006/catalog/view/theme/ancart/template/common/header.tpl on line 137

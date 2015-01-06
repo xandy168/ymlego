@@ -1,0 +1,1 @@
+2014-09-25 8:07:06 - PHP Warning:  session_start(): The session id is too long or contains illegal characters, valid characters are a-z, A-Z, 0-9 and '-,' in /var/www/html/opencart001/system/library/session.php on line 12
